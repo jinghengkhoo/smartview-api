@@ -1,0 +1,11 @@
+#virtual env
+venv/
+
+#pycache
+__pycache__
+*.pyc
+
+#env vars
+.env
+
+mysql/
